@@ -4,7 +4,7 @@
  */
 
 import { createEditor, createToolbar, Boot, IEditorConfig, t } from '@wangeditor/editor'
-import module, { AUDIO_SVG } from '@itxve/wangeditor-plugin-audio'
+import module, { AUDIO_SVG } from '../src/index'
 
 Boot.registerModule(module)
 

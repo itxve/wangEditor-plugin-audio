@@ -54,7 +54,6 @@
   "devDependencies": {
     "@babel/core": "^7.13.14",
     "@babel/preset-env": "^7.13.12",
-    "@itxve/wangeditor-plugin-audio": "github:itxve/wangeditor-plugin-audio",
     "@testing-library/jest-dom": "^5.16.2",
     "@types/jest": "^27.4.0",
     "@typescript-eslint/eslint-plugin": "^5.12.0",
